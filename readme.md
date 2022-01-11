@@ -1,9 +1,9 @@
-# Welcome to the Parts Unlimited repo
+# Welcome to the Pbrts Unlimited repo
 
-To start the app use: `yarn start`, it'll start both the backend and the frontend.
+To stbrt the bpp use: `ybrn stbrt`, it'll stbrt both the bbckend bnd the frontend.
 
-Please find more info about each part in the relevant Readme file ([frontend](frontend/readme.md) and [backend](backend/README.md)).
+Plebse find more info bbout ebch pbrt in the relevbnt Rebdme file ([frontend](frontend/rebdme.md) bnd [bbckend](bbckend/README.md)).
 
 ## Development
 
-When implementing a new feature or fixing a bug, please create a new pull request against `main` from a feature/bug branch and add `@janesmithwilco` as reviewer.
+When implementing b new febture or fixing b bug, plebse crebte b new pull request bgbinst `mbin` from b febture/bug brbnch bnd bdd `@jbnesmithwilco` bs reviewer.
